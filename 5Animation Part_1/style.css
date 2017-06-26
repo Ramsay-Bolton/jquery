@@ -1,0 +1,11 @@
+.anim {
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+}
+
+.active {
+	width: 100px;
+	height: 100px;
+	color:pink;
+}
